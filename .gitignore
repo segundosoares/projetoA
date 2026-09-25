@@ -1,0 +1,7 @@
+#Ignorar configurações locais do VS code
+.vscode/
+*.code-workspace
+
+#Ignorar lixos deo Sistema operacional
+.DS_Store
+Thumbs.db   
